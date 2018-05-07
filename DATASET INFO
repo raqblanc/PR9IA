@@ -1,0 +1,36 @@
+----------- REGRESIÓN -----------
+Dataset: Seeds
+URL: https://archive.ics.uci.edu/ml/datasets/seeds
+Atributos:
+- Área (REAL)
+- Perímetro (REAL)
+- Compacidad C = 4*pi*A/P^2 (REAL)
+- Longitud de la semilla (REAL)
+- Anchura de la semilla (REAL)
+- Coeficiente de asimetría (REAL)
+- Longitud del surco de la semilla (REAL)
+- Tipo de semilla: 1 -> Kama, 2 -> Rosa, 3 -> Canadian (NOMINAL)
+
+---------- CLUSTERING -----------
+Dataset: Computer Hardware
+URL: https://archive.ics.uci.edu/ml/datasets/Computer+Hardware
+Atributos:
+- MYCT: tiempo de ciclo en ns (INTEGER)
+- MMIN: memoria principal mínima en kilobytes (INTEGER)
+- MMAX: memoria principal máxima en  kilobytes (INTEGER)
+- CACH: memoria caché en kilobytes (INTEGER)
+- CHMIN: canales mínimos en unidades (INTEGER)
+- CHMAX: canales máximos en unidades (INTEGER)
+- PRP: rendimiento relativo (INTEGER)
+
+--------- CLASIFICACIÓN ---------
+Dataset: Car Evaluation
+URL: https://archive.ics.uci.edu/ml/datasets/car+evaluation
+Atributos:
+- Coste: Alto, bajo, mediano, muy_alto (NOMINAL)
+- Tamaño: Alto, bajo, mediano, muy_alto (NOMINAL)
+- Puertas: (INTEGER)
+- Capacidad: 1, 2, 3, 4, MÁS  (NOMINAL)
+- Tamaño del maletero: Grande, mediano, pequeño (NOMINAL)
+- Seguridad: Alto, bajo, mediano (NOMINAL)
+- Evaluación: Aceptable, bueno, inaceptable, muy bueno (NOMINAL)
