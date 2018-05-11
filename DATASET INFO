@@ -13,16 +13,18 @@ Atributos:
 - Tipo de semilla: 1 -> Kama, 2 -> Rosa, 3 -> Canadian (NOMINAL)
 
 ----------- REGRESIÓN -----------
-Dataset: Computer Hardware
-URL: https://archive.ics.uci.edu/ml/datasets/Computer+Hardware
+Dataset: Auto MPG
+URL: https://archive.ics.uci.edu/ml/datasets/Auto+MPG
 Atributos:
-- MYCT: tiempo de ciclo en ns (INTEGER)
-- MMIN: memoria principal mínima en kilobytes (INTEGER)
-- MMAX: memoria principal máxima en  kilobytes (INTEGER)
-- CACH: memoria caché en kilobytes (INTEGER)
-- CHMIN: canales mínimos en unidades (INTEGER)
-- CHMAX: canales máximos en unidades (INTEGER)
-- PRP: rendimiento relativo (INTEGER)
+- mpg: millas por galón (consumo de combustible) (REAL)
+- cilindradas 
+- Desplazamiento:  (https://en.wikipedia.org/wiki/Engine_displacement)  (REAL)
+- Caballos   (REAL)
+- Peso      (REAL)
+- Aceleración (REAL)
+- Decada fabricación (REAL)
+- Origen (REAL)
+- Nombre  (NOMINAL)
 
 --------- CLASIFICACIÓN ---------
 Dataset: Car Evaluation
