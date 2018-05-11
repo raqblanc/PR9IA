@@ -1,4 +1,4 @@
-@RELATION Sin título
+@RELATION autompg
 
 @ATTRIBUTE attribute_0 REAL
 @ATTRIBUTE attribute_1 REAL
